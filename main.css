@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+header {
+  background: url(http://static.tumblr.com/85325872c2bea524dd65d8d98a902372/yzztkye/sabo15xfv/tumblr_static_emifnmfbpa80gwwo4cg4k8s4o.png) center center no-repeat;
+  background-size: 100%;
+  text-align: center;
+}
+
+header img {
+  margin: 35px 0;
+}
+
+nav {
+  background-color: #F0F0F0;
+  text-align: center;
+  font-family: 'Lato';
+  font-weight: 900;
+  font-size: 26px;
+  font-variant: small-caps;
+  height: 40px;
+  padding: 10px;
+}
+nav a {
+  margin: 40px;
+  text-decoration: none;
+  color: #30343D;
+}
+nav a:hover {
+  border-bottom: 2px solid white;
+}
